@@ -1,5 +1,5 @@
 {
-    "name": "SimpleOpt/SimpleOpt",
+    "name": "simple-opt/simple-opt",
     "type": "library",
     "require": {
         "php": ">=5.4.0"
